@@ -1,2 +1,3 @@
 # Biometric-Attendance-System
-A lo
+## An Arduino Based System 
+
